@@ -1,0 +1,8 @@
+Pre-release missing
+
+v1.0 - Initial release
++ Everything lol
+
+v1.1 - Air pollution update
++ AQI index
++ small changes
