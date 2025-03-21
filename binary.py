@@ -24,7 +24,7 @@ payload = json.dumps({
                 }
             ],
             "from": "420123456789",
-            "flash": True,
+            "flash": False,
             "validityPeriod": 720
         }
     ]
